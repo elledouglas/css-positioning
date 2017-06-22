@@ -36,6 +36,7 @@ figure {
 position: relative;
 width: 30%;
 float: left;
+padding-right: 10px;
 }
 .action-watch-later  {
   position: absolute;
@@ -47,6 +48,7 @@ float: left;
 .action-like {
 color: red ;
 margin-bottom: 10px;
+position: relative;
 }
 
 .film .action-like {
